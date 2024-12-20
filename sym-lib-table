@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-C6-WROOM-1-N8")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32_C6_WROOM_1_N8/ESP32-C6-WROOM-1-N8.kicad_sym")(options "")(descr ""))
+  (lib (name "V851s")(type "KiCad")(uri "${KIPRJMOD}/lib/V851s/V851s.kicad_sym")(options "")(descr ""))
+  (lib (name "Artinchip")(type "KiCad")(uri "${KIPRJMOD}/lib/Artinchip/Artinchip.kicad_sym")(options "")(descr ""))
+  (lib (name "Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Artinchip/Silergy.kicad_sym")(options "")(descr ""))
+)
